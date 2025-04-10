@@ -8,7 +8,7 @@ export default function Sidebar() {
         <aside className={styles.sidebar}>
             <img
                 className={styles.cover}
-                src="https://private-user-images.githubusercontent.com/93049899/412163477-f227ff2a-7742-4a5a-90c4-5655660bf427.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDQyMDQwMDcsIm5iZiI6MTc0NDIwMzcwNywicGF0aCI6Ii85MzA0OTg5OS80MTIxNjM0NzctZjIyN2ZmMmEtNzc0Mi00YTVhLTkwYzQtNTY1NTY2MGJmNDI3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA0MDklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNDA5VDEzMDE0N1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTNhMTZlZGFiNTg3ZDM0MzY4ODM5OTVlZjAwZDQ5NzQwODYwNzc3MTdlNzZiYTc5NGU2NGMzOGZkZTgxOTdlMzImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.VUECwxmDuTx6BA2PGagNPg3optFCQCTjremyMHTqxs4"
+                src="https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?q=50&w=500&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
                 alt="Banner"
             />
 
